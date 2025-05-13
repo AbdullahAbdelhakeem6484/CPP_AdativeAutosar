@@ -1,0 +1,19 @@
+26. Basic String Operations
+
+27. Searching Strings
+
+28. Adding Elements to Strings
+
+
+29. Removing Elements from Strings
+
+
+30. Converting between Strings and Numbers
+
+31. Miscellaneous String Operations
+
+
+32. Character Functions
+
+
+Assignment 2: Character Functions

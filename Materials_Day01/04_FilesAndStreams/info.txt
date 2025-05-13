@@ -1,0 +1,47 @@
+
+
+33. Files and Streams
+    
+
+34. File Streams
+    
+
+35. Streams and Buffering
+    
+
+36. Unbuffered Input and Output
+    
+
+37. File Modes
+    
+
+38. Stream Member Functions and State
+    
+
+39. Stream Manipulators and Formatting
+    
+
+40. Floating-point Output Formats
+    
+
+41. Stringstreams
+    
+
+Assignment 3: Files Workshop Part One
+
+Assignment 4: Files Workshop Part Two
+
+42. Resource Management
+    
+
+43. Random Access to Streams
+    
+
+44. Stream Iterators
+    
+
+45. Binary Files
+    
+
+46. Binary File Practical
+    

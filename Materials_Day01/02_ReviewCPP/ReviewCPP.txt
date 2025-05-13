@@ -1,0 +1,71 @@
+    
+4. Local Variables and Function Arguments
+    
+    
+5. Reference and Value Semantics
+    
+    
+6. Declaration and Initialization
+    
+    
+7. Classes
+    
+    
+8. Special Member Functions
+    
+    
+9. Pointers and Memory
+    
+    
+10. Array, String and Vector
+    
+Start
+Assignment 1: Classes and Strings
+    
+11. Conway's Game of Life Overview
+    
+    
+12. Two-Dimensional Arrays
+    
+    
+13. Conway's Game of Life Practical
+    
+    
+14. Conway's Game of Life Practical Continued
+    
+    
+15. Numeric Types and Literals
+    
+    
+16. String Literals
+    
+    
+17. Casting
+    
+    
+18. Iterator Introduction
+
+19. The auto keyword
+    
+Start
+Quiz 1: Auto Keyword Quiz
+    
+20. Loops and Iterators
+    
+    
+21. Iterator Arithmetic and Iterator Ranges
+    
+Start
+Quiz 2: Iterator Arithmetic and Iterator Ranges Quiz
+    
+22. If Statements and Switch in C++17
+    
+    
+23. Templates Overview
+    
+    
+24. Namespaces
+    
+    
+25. Function Pointer
+    
