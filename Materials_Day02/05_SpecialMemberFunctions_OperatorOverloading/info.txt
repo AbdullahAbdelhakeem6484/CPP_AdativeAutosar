@@ -1,0 +1,54 @@
+    
+47. Constructors in Modern C++
+    
+    
+48. Copy Constructor Overview
+    
+    
+49. Assignment Operator Overview
+    
+    
+50. Synthesized Member Functions
+    
+    
+51. Shallow and Deep Copying
+    
+    
+52. Copy Elision
+    
+    
+53. Conversion Operators
+    
+    
+54. Default and Delete Keywords
+    
+    
+55. Operators and Overloading.
+    
+    
+56. Which Operators to Overload
+    
+    
+57. The Friend Keyword
+    
+    
+58. Member and Non-member Operators
+    
+    
+59. Addition Operators
+    
+    
+60. Equality and Inequality Operators
+    
+    
+61. Less-than Operator
+    
+    
+62. Prefix and Postfix Operators
+    
+    
+63. Function Call Operator
+    
+    
+64. Printing Out Class Member Data
+    
