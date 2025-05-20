@@ -1,0 +1,42 @@
+    
+65. Algorithms Overview
+    
+    
+66. Algorithms with Predicates
+    
+    
+67. Algorithms with _if Versions
+    
+    
+68. Lambda Expressions Introduction
+    
+Start
+Assignment 5: Algorithm with Lambda Expression
+    
+69. Lambda Expressions Practical
+    
+    
+70. Lambda Expressions and Capture
+    
+    
+71. Lambda Expressions and Capture Continued
+    
+Start
+Assignment 6: Mutable Lambda
+    
+72. Lambda Expressions and Partial Evaluation
+    
+    
+73. Lambda Expressions in C++14
+    
+Start
+Assignment 7: Generalized capture with initialization
+    
+74. Pair Type
+    
+    
+75. Insert Iterators
+    
+    
+76. Library Function Objects
+    

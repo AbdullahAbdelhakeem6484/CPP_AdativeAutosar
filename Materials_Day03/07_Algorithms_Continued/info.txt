@@ -1,0 +1,53 @@
+    
+77. Searching Algorithms
+
+78. Searching Algorithms Continued
+
+79. Numeric Algorithms
+
+80. Write-only Algorithms
+
+81. for_each Algorithm
+
+82. Copying Algorithms
+
+83. Write Algorithms
+
+84. Removing Algorithms
+
+85. Removing Algorithms Continued
+
+86. Transform Algorithm
+
+87. Merging Algorithms
+
+88. Reordering Algorithms
+
+89. Partitioning Algorithms
+
+90. Sorting Algorithms
+
+91. Sorting Algorithms Continued
+
+92. Permutation Algorithms
+
+93. Min and Max Algorithms
+
+94. Further Numeric Algorithms
+
+95. Further Numeric Algorithms Continued
+
+96. Introduction to Random Numbers
+
+97. Random Numbers in Older C++
+
+98. Random Numbers in Modern C++
+
+99. Random Number Algorithms
+
+100. Palindrome Checker Practical
+
+101. Random Walk Practical
+    
+Start
+Assignment 8: Algorithms and Iterators Workshop
